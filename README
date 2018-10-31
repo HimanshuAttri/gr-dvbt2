@@ -112,5 +112,7 @@ with the following shell commands:
     echo $(( 1024 * 1024 * 1024 )) > /proc/sys/kernel/shmmax
     logout
 
-Contributions are welcome!
+Contributions are Welcome!
+
+
 
